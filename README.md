@@ -6,9 +6,13 @@
 
 # Sobre mim
 🙂 Sou de nacionalidade venezuelana, atualmente resido no Brasil e estou estudando desenvolvimento web no Senac onde tambem ja finalicei o curso de desenvolvedor Java.
+</DIV>
 🎓 Me forme em pedagogia na Venezuela, falo espanhol, inglês e português. 
+</DIV>
 🌟 Sempre estou en busca de novos conhecimentos e experiências, enquanto estudo trabalho com gastronomia o que tambem me proporciono novos aprendizados. 
+</DIV>
 🌍 Aspiro poder conhecer outros paises através do meu trabalho.
+
 #SKILLS
 </DIV>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
