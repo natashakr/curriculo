@@ -11,9 +11,11 @@
 🎓 Me forme em pedagogia na Venezuela, falo espanhol, inglês e português. 
 
 </DIV>
+
 🌟 Sempre estou en busca de novos conhecimentos e experiências, enquanto estudo trabalho com gastronomia o que tambem me proporciono novos aprendizados. 
 
 </DIV>
+
 🌍 Aspiro poder conhecer outros paises através do meu trabalho.
 
 # SKILLS
